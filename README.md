@@ -4,6 +4,12 @@
 **Prepared:** October 2026 · All research conducted against live primary sources
 **Source labels:** `[OFFICIAL]` government/HOA/utility primary · `[LISTING]` MLS-derived · `[ESTIMATE]` model/derived · `[UNVERIFIED]` could not confirm
 
+> 📊 **Companion report:** [`TWO-PROPERTY-COMPARISON.md`](TWO-PROPERTY-COMPARISON.md) — side-by-side
+> due diligence of this lot against the **Stillwater Coves lots (1147 & 1153 Watersedge Cove, Lincoln
+> County, GA)** on Clarks Hill Lake, covering climate, natural hazards, demographics, schools,
+> healthcare, shopping, South Asian community access, recreation, walkability, airports, and a
+> line-item **construction cost estimate for a 5-bedroom home on each lot**.
+
 ---
 
 ## 0. Executive summary — three premises in the request are wrong
