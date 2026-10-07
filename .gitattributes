@@ -1,0 +1,2 @@
+*.html -diff linguist-generated
+*.pdf  -diff binary
